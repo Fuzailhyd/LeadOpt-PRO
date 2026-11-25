@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+rdkit>=2023.9.1
+numpy>=1.26.0
+pandas>=2.1.0
+plotly>=5.20.0
+scipy>=1.12.0
